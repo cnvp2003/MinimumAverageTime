@@ -4,7 +4,7 @@
 		module="minimumaveragetime$sources_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20170624115319"
+		publication="20180113212519"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>

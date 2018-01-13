@@ -1,6 +1,7 @@
 [debug] Other repositories:
 [debug] Default repositories:
 [debug] Using inline dependencies specified in Scala.
+[debug] no default cache defined: set to /Users/pati80/.ivy2/cache
 [debug] :: resolving dependencies :: default#minimumaveragetime$sbt_2.10;1.0
 [debug] 	confs: [default]
 [debug] 	validate = true
@@ -1778,9 +1779,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.15!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
-[debug] :: resolution report :: resolve 558ms :: artifacts dl 22ms
+[debug] :: resolution report :: resolve 361ms :: artifacts dl 17ms
 [debug] 	report for default#minimumaveragetime$sbt_2.10;1.0 default produced in /Users/pati80/Chandrashekhar/practice/MinimumAverageTime/target/resolution-cache/reports/default-minimumaveragetime$sbt_2.10-default.xml
-[debug] 	resolve done (558ms resolve - 22ms download)
+[debug] 	resolve done (361ms resolve - 17ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#minimumaveragetime$sources_2.10;1.0
 [debug] 	confs: [default]
@@ -2458,6 +2459,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#incremental-compiler;0.13.15!incremental-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#logic;0.13.15!logic.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#main-settings;0.13.15!main-settings.jar(src)
-[debug] :: resolution report :: resolve 162ms :: artifacts dl 20ms
+[debug] :: resolution report :: resolve 204ms :: artifacts dl 16ms
 [debug] 	report for default#minimumaveragetime$sources_2.10;1.0 default produced in /Users/pati80/Chandrashekhar/practice/MinimumAverageTime/target/resolution-cache/reports/default-minimumaveragetime$sources_2.10-default.xml
-[debug] 	resolve done (162ms resolve - 20ms download)
+[debug] 	resolve done (204ms resolve - 16ms download)

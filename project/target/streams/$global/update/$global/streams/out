@@ -6009,7 +6009,7 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 1068ms :: artifacts dl 30ms
+[debug] :: resolution report :: resolve 979ms :: artifacts dl 20ms
 [debug] 	report for default#minimumaveragetime-build;0.1-SNAPSHOT compile produced in /Users/pati80/Chandrashekhar/practice/MinimumAverageTime/project/target/resolution-cache/reports/default-minimumaveragetime-build-compile.xml
 [debug] 	report for default#minimumaveragetime-build;0.1-SNAPSHOT runtime produced in /Users/pati80/Chandrashekhar/practice/MinimumAverageTime/project/target/resolution-cache/reports/default-minimumaveragetime-build-runtime.xml
 [debug] 	report for default#minimumaveragetime-build;0.1-SNAPSHOT test produced in /Users/pati80/Chandrashekhar/practice/MinimumAverageTime/project/target/resolution-cache/reports/default-minimumaveragetime-build-test.xml
@@ -6023,5 +6023,5 @@
 [debug] 	report for default#minimumaveragetime-build;0.1-SNAPSHOT docs produced in /Users/pati80/Chandrashekhar/practice/MinimumAverageTime/project/target/resolution-cache/reports/default-minimumaveragetime-build-docs.xml
 [debug] 	report for default#minimumaveragetime-build;0.1-SNAPSHOT pom produced in /Users/pati80/Chandrashekhar/practice/MinimumAverageTime/project/target/resolution-cache/reports/default-minimumaveragetime-build-pom.xml
 [debug] 	report for default#minimumaveragetime-build;0.1-SNAPSHOT scala-tool produced in /Users/pati80/Chandrashekhar/practice/MinimumAverageTime/project/target/resolution-cache/reports/default-minimumaveragetime-build-scala-tool.xml
-[debug] 	resolve done (1068ms resolve - 30ms download)
+[debug] 	resolve done (979ms resolve - 20ms download)
 [info] Done updating.
